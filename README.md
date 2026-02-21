@@ -33,5 +33,6 @@ API backend desarrollada con **Django + Django REST Framework** para autenticar 
    git clone https://github.com/marianasalazarr/validation-api-prueba-tecnica.git
    cd validation-api-prueba-tecnica
 
-   API desplegada en Render (Swagger):
+2. API desplegada en Render (Swagger):
+
 https://validation-api-prueba-tecnica.onrender.com/api/docs/
